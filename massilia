@@ -1,0 +1,6 @@
+cd C:\Users\antoi\Downloads\Massilia shop
+git init
+git remote add origin https://github.com/brunolebg/massilia-shop.git
+git add .
+git commit -m "Initial commit"
+git push -u origin master
